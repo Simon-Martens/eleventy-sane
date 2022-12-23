@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/schnulller/eleventy-sane/issues"
   },
-  "homepage": "https://github.com/schnulller/eleventy-sane#readme"
+  "homepage": "https://github.com/schnulller/eleventy-sane#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.23"
+  }
 }
