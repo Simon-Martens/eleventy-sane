@@ -38,8 +38,12 @@ This a template providing a sane base config for eleventy, mainly for the purpos
 | `npm run css_watch` | Watch for CSS changes & rebuild |
 | `npm run build` | First build the CSS, then the site |
 
-## Template Files
+## Other Settings
 ```
 .\.eleventy.js
 ```
 This will parse `.njk`, `.html` and `.md` templates by default.
+```
+.\src\data\config.json
+```
+These are some configuration options for default title displayed in the title bar, some SEO, and some options for sharing on social media. The `base.njk`-Layout configures these as default, unless front matter is provided on the specific template. 
