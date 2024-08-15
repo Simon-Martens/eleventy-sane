@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/schnulller/eleventy-sane#readme",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.23",
-    "autoprefixer": "^10.4.13",
-    "cssnano": "^5.1.14",
-    "postcss": "^8.4.20",
-    "postcss-cli": "^10.1.0",
-    "tailwindcss": "^3.2.4"
+    "@11ty/eleventy": "^2.0.1",
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.5",
+    "postcss": "^8.4.41",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.10"
   }
 }
